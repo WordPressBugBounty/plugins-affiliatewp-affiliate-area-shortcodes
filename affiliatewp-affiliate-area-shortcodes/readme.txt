@@ -1,8 +1,8 @@
 === WordPress Affiliate Program Plugin Shortcodes by AffiliateWP ===
-Contributors: sumobi, mordauk
-Tags: affiliate, affiliate program, affiliate marketing, affiliate plugin, affiliates, affiliate links, referrals, woocommerce, woo, shortcodes, AffiliateWP
+Contributors: sumobi, aubreypwd
+Tags: affiliatewp, affiliate shortcodes, affiliate dashboard, affiliate stats, affiliate earnings
 Requires at least: 5.2
-Tested up to: 6.1.1
+Tested up to: 6.8
 Requires PHP: 7.4
 Stable tag: 1.3.1
 License: GPLv2 or later
@@ -112,10 +112,10 @@ OR you can just install it with WordPress by going to Plugins &rarr; Add New &ra
 * Improved: Activation class
 * Improved: Tested up to WordPress 6.1.1
 
-= 1.3 =
+= 1.3.0 =
 * New: Requires WordPress 5.2 minimum
 
-= 1.2 =
+= 1.2.0 =
 * New: Enforce minimum dependency requirements checking
 * New: Requires PHP 5.6 minimum
 * New: Requires WordPress 5.0 minimum

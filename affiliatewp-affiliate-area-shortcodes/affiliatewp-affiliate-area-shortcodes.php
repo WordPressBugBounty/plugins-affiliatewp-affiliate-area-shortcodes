@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: AffiliateWP - Affiliate Area Shortcodes
- * Plugin URI: https://affiliatewp.com/add-ons/official-free/affiliate-area-shortcodes/
+ * Plugin URI: https://affiliatewp.com/addons/affiliate-area-shortcodes/
  * Description: Provides shortcodes for each tab of the Affiliate Area + other useful shortcodes
  * Author: AffiliateWP
  * Author URI: https://affiliatewp.com
