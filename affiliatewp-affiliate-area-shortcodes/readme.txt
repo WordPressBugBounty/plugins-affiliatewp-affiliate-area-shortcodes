@@ -1,6 +1,6 @@
-=== WordPress Affiliate Program Plugin Shortcodes by AffiliateWP ===
-Contributors: sumobi, aubreypwd
-Tags: affiliatewp, affiliate shortcodes, affiliate dashboard, affiliate stats, affiliate earnings
+=== Affiliate Area Shortcodes by AffiliateWP ===
+Contributors: sumobi
+Tags: affiliate, affiliate area, shortcodes
 Requires at least: 5.2
 Tested up to: 6.8
 Requires PHP: 7.4
@@ -8,11 +8,11 @@ Stable tag: 1.3.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Take your WordPress affiliate program to the next level! Give your affiliates the best possible experience using over 20 powerful shortcodes designed for AffiliateWP.
+Customize your affiliate dashboard with 20+ powerful shortcodes. Show earnings, stats, referrals, and graphs anywhere on your site.
 
 == Description ==
 
-= WordPress Affiliate Program Plugin Shortcodes =
+= Affiliate Area Shortcodes =
 
 This plugin gives you fine-tuned control over your AffiliateWP-powered WordPress affiliate program. With access to over twenty shortcodes you'll be able to create the perfect experience for your affiliates, maximize conversions and boost sales.
 
